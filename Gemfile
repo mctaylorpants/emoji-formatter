@@ -1,5 +1,4 @@
-# frozen_string_literal: true
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "rspec", "3.4"
-gem "colorize"
+# Specify your gem's dependencies in rspec_emoji_formatter.gemspec
+gemspec

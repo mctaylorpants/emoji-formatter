@@ -1,5 +1,4 @@
 require "rspec/core/formatters/console_codes"
-require "colorize"
 
 class EmojiFormatter
 
