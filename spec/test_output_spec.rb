@@ -1,10 +1,10 @@
 require "spec_helper"
 
 describe EmojiFormatter do
-  describe "describe block 1" do
-    5.times do |i|
+  describe "demo tests" do
+    100.times do |i|
       it "runs test #{i}" do
-        expect(true).to eq([true, true, true, false].sample)
+        expect(true).to eq([true, true, false].sample)
         sleep(rand(0.75))
       end
     end
