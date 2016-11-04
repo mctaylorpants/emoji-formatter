@@ -1,6 +1,6 @@
 require "spec_helper"
 
-describe RspecEmojiFormatter do
+describe EmojiFormatter do
   describe "describe block 1" do
     5.times do |i|
       it "runs test #{i}" do

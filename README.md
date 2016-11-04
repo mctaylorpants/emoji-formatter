@@ -1,15 +1,15 @@
-# RspecEmojiFormatter
+# EmojiFormatter
 
-Pretty self-explanatory. Spice up your boring test suite with some 😀
+A custom formatter for Rspec. Spice up your boring test suite with some 😀
 
-![rspec-emoji-formatter demo](demo.gif)
+![emoji-formatter demo](demo.gif)
 
 Did your test pass? 😀 Did your test fail? 😡 Is your test pending? 🔷
 
 ## Usage
 Install the gem:
 
-`gem install rspec-emoji-formatter`
+`gem install emoji-formatter`
 
 Then choose it as your RSpec formatter:
 
