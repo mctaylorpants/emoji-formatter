@@ -1,4 +1,5 @@
 # EmojiFormatter
+[![Gem Version](https://badge.fury.io/rb/emoji-formatter.svg)](https://badge.fury.io/rb/emoji-formatter)
 
 A custom formatter for Rspec. Spice up your boring test suite with some 😀
 
